@@ -1,4 +1,6 @@
-
+    Project Owner: Griffins Ngeno
+    Project Name: Recipe App
+    
 Problem Statement
 A cook needs a way to make cooking decisions when they have loved ones who
 have different food preferences, to reduce cooking time,
