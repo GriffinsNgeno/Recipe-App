@@ -219,13 +219,13 @@ body{
 
 
 /*  */
-.notFound{
+/* .notFound{
     grid-template-columns: 1fr!important;
     color: var(--color-1);
     font-size: 1.8rem;
     font-weight: 600;
     width: 100%;
-}
+} */
 
 /* Media Queries */
 @media screen and (min-width: 600px){
