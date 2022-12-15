@@ -1,5 +1,5 @@
     Project Owner: Griffins Ngeno
-    Project Name: Recipe App
+    Project Name: Recipe Finder App
     
 Problem Statement
 A cook needs a way to make cooking decisions when they have loved ones who
@@ -7,11 +7,10 @@ have different food preferences, to reduce cooking time,
 and to prepare one meal instead of two.
 
 Solution 
-Create an online application that a user can be able to search for a meal from any 
-cuisine and they will be able to get a list of ingredients required
+Create an online application that a user can be able to enter an ingredient thay have and they will be able to get the 
+various types of food they can make from any cuisine and they will be able to get a list of ingredients required
 to make the meal and the steps on how to make it.
 
 MVP
 Landing page
-About us page
-Contact page
+Contact us
