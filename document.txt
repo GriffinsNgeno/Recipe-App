@@ -13,4 +13,3 @@ to make the meal and the steps on how to make it.
 
 MVP
 Landing page
-Contact us
